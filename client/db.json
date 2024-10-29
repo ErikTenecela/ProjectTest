@@ -1,0 +1,35 @@
+{
+    "movies": [
+      {
+        "id": 1,
+        "title": "You Got Served",
+        "release_year": 2004,
+        "genre": "Dance",
+        "rating": "PG-13",
+        "description": "Two friends compete in a street dancing competition to earn respect and prize money.",
+        "director": "Chris Stokes",
+        "actors": ["Marques Houston", "Omari Grandberry", "Jarell Houston"]
+      },
+      {
+        "id": 2,
+        "title": "War for the Planet of the Apes",
+        "release_year": 2017,
+        "genre": "Action",
+        "rating": "PG-13",
+        "description": "Caesar and his apes fight a battle against a ruthless Colonel in this climactic final chapter.",
+        "director": "Matt Reeves",
+        "actors": ["Andy Serkis", "Woody Harrelson", "Steve Zahn"]
+      },
+      {
+        "id": 3,
+        "title": "Smile 2",
+        "release_year": 2024,
+        "genre": "Horror",
+        "rating": "R",
+        "description": "Following the events of the first movie, Smile 2 dives deeper into a new and haunting mystery.",
+        "director": "Parker Finn",
+        "actors": ["Sosie Bacon", "Kyle Gallner", "Jessie T. Usher"]
+      }
+    ]
+  }
+  
