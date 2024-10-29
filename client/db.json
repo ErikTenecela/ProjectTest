@@ -29,6 +29,36 @@
         "description": "Following the events of the first movie, Smile 2 dives deeper into a new and haunting mystery.",
         "director": "Parker Finn",
         "actors": ["Sosie Bacon", "Kyle Gallner", "Jessie T. Usher"]
+      },
+      {
+        "id": 4,
+        "title": "The Shawshank Redemption",
+        "release_year": 1994,
+        "genre": "Drama",
+        "rating": "R",
+        "description": "Two imprisoned men bond over a number of years, finding solace and eventual redemption through acts of common decency.",
+        "director": "Frank Darabont",
+        "actors": ["Tim Robbins", "Morgan Freeman", "Bob Gunton"]
+      },
+      {
+        "id": 5,
+        "title": "Inception",
+        "release_year": 2010,
+        "genre": "Sci-Fi",
+        "rating": "PG-13",
+        "description": "A thief who enters the dreams of others to steal their secrets is given a chance to have his criminal history erased if he can plant an idea in someone’s mind.",
+        "director": "Christopher Nolan",
+        "actors": ["Leonardo DiCaprio", "Joseph Gordon-Levitt", "Elliot Page"]
+      },
+      {
+        "id": 6,
+        "title": "Parasite",
+        "release_year": 2019,
+        "genre": "Thriller",
+        "rating": "R",
+        "description": "A poor family schemes to become employed by a wealthy family and infiltrates their household with unexpected consequences.",
+        "director": "Bong Joon-ho",
+        "actors": ["Song Kang-ho", "Lee Sun-kyun", "Cho Yeo-jeong"]
       }
     ]
   }
